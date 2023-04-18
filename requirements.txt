@@ -1,0 +1,3 @@
+Lista de dependências externas
+    aiohttp
+
