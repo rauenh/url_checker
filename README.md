@@ -2,13 +2,11 @@
 
 **Como rodar o projeto:**<br/>
 * Passo 1: Clonar o repositório<br/>
-* Passo 2: instalar Python com ``apt install python3.8-venv``
+* Passo 2: instalar venv com ``apt install python3.8-venv``
 * Passo 3: Criar o ambiente virtual para o projeto, <br/>
 No windows:  ``python -m venv venv``<br/>
-No Linux/macOS: ``python -m venv venv``<br/>
 * Passo 4: Ativar o ambiente virtual<br/>
 No Windows: ``venv\Scripts\activate``<br/>
-No Linux/macOS: ``source venv/bin/activate``<br/>
 * Passo 5: Instalar as dependências com o pip ``python -m pip install aiohttp``
 
 **Os arquivos:** <br/>
