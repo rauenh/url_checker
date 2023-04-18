@@ -19,5 +19,6 @@ No Linux/macOS: ``source venv/bin/activate``<br/>
 **Rodando o pacote:**<br/>
 * Abra o terminal na pasta que você clonou e digite o seguinte comando
 ``python -m urlchecker -h``
-* Irá aparecer as seguintes informações:
-![screenshot do terminal mostrando as opções do programa urlchecker](
+* Irá aparecer as seguintes informações:<br/>
+![screenshot do terminal mostrando as opções do programa urlchecker](assets/terminal.png)
+* Em seguida execute a operação que deseja. Você pode consultar a URL desejada inserindo-a no terminal, da seguinte maneira ``python -m rpchecker -u <insira aqui sua url>``
